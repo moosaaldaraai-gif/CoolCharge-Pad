@@ -59,8 +59,9 @@ exceeds the safe threshold to protect the battery.
 
 ## 🌡️ How It Works
 - DHT22 reads temperature every 2 seconds
-- If temp > 23.0°C → Fan ON + Red LED 🔴
-- If temp < 22.5°C → Fan OFF + Green LED 🟢
+- If temp > 40.0°C → Fan ON + Red LED 🔴
+- If temp < 35.0°C → Fan OFF + Green LED 🟢
+- Between 35°C and 40°C → system maintains previous state
 - OLED displays real-time temperature & status
 
 ---
