@@ -6,7 +6,7 @@
 ---
 
 ## 🇦🇪 عن المشروع
-CoolCharge Pad هيه منصة ذكية تُدمج مع مواقف محطات شحن السيارات الكهربائية، صُممت لتناسب البيئات الحارة مثل دولة الإمارات. تقوم المنصة بمراقبة درجة الحرارة وتشغيل نظام تبريد تلقائي أثناء فترة الشحن للمساعدة في تقليل تراكم الحرارة أسفل السيارة. ويُعد هذا المشروع نموذجًا أوليًا (Prototype) يمكن تطويره مستقبلًا ليتكامل مع محطات الشحن والبنية التحتية للمدن الذكية.
+CoolCharge Pad هي منصة ذكية تُدمج مع مواقف محطات شحن السيارات الكهربائية، صُممت لتناسب البيئات الحارة مثل دولة الإمارات. تقوم المنصة بمراقبة درجة الحرارة وتشغيل نظام تبريد تلقائي أثناء فترة الشحن للمساعدة في تقليل تراكم الحرارة أسفل السيارة. ويُعد هذا المشروع نموذجًا أوليًا (Prototype) يمكن تطويره مستقبلًا ليتكامل مع محطات الشحن والبنية التحتية للمدن الذكية.
 
 ## 🇬🇧 About
 CoolCharge Pad is a smart platform designed to integrate with EV charging station parking spaces in hot climates such as the UAE. It monitors temperature and automatically activates a cooling system during charging to help reduce heat buildup beneath parked electric vehicles. This project is a proof-of-concept prototype with the potential to integrate into future smart charging infrastructure and smart cities
